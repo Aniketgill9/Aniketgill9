@@ -5,9 +5,8 @@ Hi 👋, I'm Aniket Gill
 🌱 Currently learning advanced Node.js & MongoDB  
 📍 India  
 
----
 
-🛠️ Tech Stack
+ Tech Stack
 
 💡 Languages  
 - HTML, CSS, JavaScript  
@@ -26,19 +25,10 @@ Hi 👋, I'm Aniket Gill
 
 --- 
 
-## 📊 GitHub Stats
+ Connect With Me
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketgill9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgill9&layout=compact&theme=tokyonight)
+📧 Email: aniketgill082@gmail.com  
 
 ---
-
-## 📫 Connect With Me
-
-📧 Email: your-aniketgill082@gmail.com  
-
----
-
-## ⚡ Fun Fact
+ Fun Fact
 I love turning ideas into real-world projects 💡
